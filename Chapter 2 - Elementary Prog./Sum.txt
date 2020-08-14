@@ -1,0 +1,14 @@
+Enter a number between 0 and 1000: 0
+The sum of the digits is 0
+
+Process finished with exit code 0
+
+Enter a number between 0 and 1000: 10
+The sum of the digits is 1
+
+Process finished with exit code 0
+
+Enter a number between 0 and 1000: 456
+The sum of the digits is 15
+
+Process finished with exit code 0

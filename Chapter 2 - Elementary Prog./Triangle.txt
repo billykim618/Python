@@ -1,0 +1,9 @@
+Enter three points for a triangle separated by commas: 0, 0, 0, 3, 4, 0
+Area is 6.0
+
+Process finished with exit code 0
+
+Enter three points for a triangle separated by commas: 1.5, -3.4, 4.6, 5, 9.5, -3.4
+Area is 33.600000000000016
+
+Process finished with exit code 0

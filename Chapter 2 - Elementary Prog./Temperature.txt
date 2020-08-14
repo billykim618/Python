@@ -1,0 +1,14 @@
+Enter a degree in celsius: 25
+25 Celsius is 77.0 Fahrenheit
+
+Process finished with exit code 0
+
+Enter a degree in celsius: 43
+43 Celsius is 109.4 Fahrenheit
+
+Process finished with exit code 0
+
+Enter a degree in celsius: -10
+-10 Celsius is 14.0 Fahrenheit
+
+Process finished with exit code 0
